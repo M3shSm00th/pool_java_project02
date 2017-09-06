@@ -38,7 +38,6 @@ protected ListProperty<String> listColl = new SimpleListProperty<String>();
 protected ListProperty<String> listCollS = new SimpleListProperty<String>();
 protected ListProperty<String> listAct = new SimpleListProperty<String>();
 
-
 @FXML ListView<String> listCollab;
 @FXML ListView<String> listAddedCollab;
 @FXML ListView<String> listAction;
